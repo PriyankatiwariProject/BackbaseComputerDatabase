@@ -1,0 +1,26 @@
+{
+	"ComputerTest_Create":{
+		"computerName":"HPE59485",
+		"introducedDate":"2005-06-01",
+		"discontinuedDate":"2017-12-01",
+		"company":"4"},
+	
+	"ComputerTest_Read":{
+		"computerName":"Dell-E5-573G-389U",
+		"introducedDate":"1999-01-19",
+		"discontinuedDate":"2020-12-13",
+		"company":"3"},
+	
+	"ComputerTest_Update":{
+		"computerName":"Apple-4z",
+		"introducedDate":"1999-01-19",
+		"discontinuedDate":"2020-12-13",
+		"company":"3"},
+	
+	
+	"ComputerTest_Delete":{
+		"computerName":"Dell-E5-573G-389U",
+		"introducedDate":"1999-01-19",
+		"discontinuedDate":"2020-12-13",
+		"company":"3"}
+		}

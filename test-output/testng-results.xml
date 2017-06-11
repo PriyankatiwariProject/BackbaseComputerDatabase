@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="0" passed="0">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="11145" started-at="2017-06-11T10:43:39Z" finished-at="2017-06-11T10:43:51Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="11145" started-at="2017-06-11T10:43:39Z" finished-at="2017-06-11T10:43:51Z">
+      <class name="com.ComputerDatabase.test.ComputerDatabase_CRUD_Test">
+        <test-method status="PASS" signature="LaunchApplicationBrowser()[pri:0, instance:com.ComputerDatabase.test.ComputerDatabase_CRUD_Test@77caeb3e]" name="LaunchApplicationBrowser" is-config="true" duration-ms="11131" started-at="2017-06-11T12:43:39Z" finished-at="2017-06-11T12:43:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LaunchApplicationBrowser -->
+      </class> <!-- com.ComputerDatabase.test.ComputerDatabase_CRUD_Test -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
